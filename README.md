@@ -1,3 +1,3 @@
 guessinggame.sh by Moinak Dasgupta
-Mon Jun  1 22:09:59 IST 2020
-2
+Tue Jun  2 13:11:46 IST 2020
+20
